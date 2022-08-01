@@ -16,13 +16,13 @@ We have access to rooms and equipment for e.g., brain stimulation, neuroimaging,
   - 'D-lofts': 4 indoor (heated) enclosures (6 m2 each), each with an access to a separate outside enclosure (12 m2 per enclosure). 
   - A research room (18 m2), with two large test boxes and several smaller (Skinner) boxes. 
   - A multifunctional room (10 m2) for storage of samples (in freezers) and other research materials. This room can also temporarily house individual animals for short periods of time. 
-  - A large flight cage (+- 110 m2; 7 m high)
+  - A large flight cage (+- 110 m2; 5,5 m high)
   - A modern office container, allowing researchers to work from the WRC when not testing animals.  
 
 - Lab members also have access to state-of-the-art equipment, such as: 
   - Large incubators and hatcheries
   - Various camera systems (including thermal imaging). All enclosures and flight cage(s) are also equipped with cameras, allowing us to monitor animals 24/7. 
-  - All equipment required for taking samples (e.g., blood or tissue samples) and preprosseing them (e.g. centrifuge)
+  - All equipment required for taking samples (e.g., blood or tissue samples) and preprocessing them (e.g. centrifuge)
   - Equipment required to test animals in controlled environments, including touch screens and various custom-made devices (e.g., to detect force of pecks)
   - GPS trackers for wild animals
   - A tailored long range ultra-wide band (UWB) tracking system for monitoring individuals in enclosures and the flight cage.  
